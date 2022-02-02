@@ -1,19 +1,14 @@
 ---
-title: About uss
+title: About us
 ---
 
-## Ossa narrat sortita fecerat sit conataque
+## Smart Contract Security Education for everyone
 
-Lorem markdownum aptos pes, Inachidos caput corrumpere! Hanc haud quam [est
-candore](http://quisquis-in.io/ramossuperum) conpulit meriti. Vincere ferocia
-arva.
+The future of web3 is in the hands of it's developers, contract security will be it's foundation. In order for web3 to grow into the future of global commerce & monetary system, creating safe methods to protect funds/assets will lead the rest of the world to trust smart contracts. 
+# Learn by failing
 
-## Eleis celeberrimus loci ait falsa infelix tuoque
+Since the beginning, issues with smart contracts have lead to millions of dollars being lost to hackers who found vulmerabilities in the code. Most notably [The DAO](https://en.wikipedia.org/wiki/The_DAO_(organization)) which was the first organization that was decentralized via smart contract. The outcome was like that of the Titanic, wide-eyed and with the belief it could was unsinkable, until it wasn't. 
 
-Mox haberet ambae torique dedisses quibus que membraque nervo remanet, digiti
-iam neve clamorque fallaces. Relicto aures rarissima detur quoniamque habes haec
-Brotean, redit, est creatis aequore; vel? Impetus glaciali coruscant Bacchus
-**mirata pararet potes**, atque mea rumpere sustulerat umeris fuit.
 
 ## Facundis quid
 
