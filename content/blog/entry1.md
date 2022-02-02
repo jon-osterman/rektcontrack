@@ -1,16 +1,16 @@
 ---
 title: Troes retardat
-tags: tag1, tag2
-category: Digital
+tags: security, DAO
+category: Security
 excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
 created: 2019-01-10
 image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
 image_caption: Photo by Josh Spires on Unsplash
-author: author1, author2, author3
+author: author1
 featured: true
 ---
 
-## Ossa narrat sortita fecerat sit conataque
+## The Genesis Hack
 
 Lorem markdownum aptos pes, Inachidos caput corrumpere! Hanc haud quam [est
 candore](http://quisquis-in.io/ramossuperum) conpulit meriti. Vincere ferocia

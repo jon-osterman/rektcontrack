@@ -1,9 +1,9 @@
 ---
 id: author1
-name: Troes retardat
-bio: Primis vitae mauris turpis ornare libero odio torquent vehicula proin consequat curabitur mattis
+name: Jon Osterman
+bio: Previously Analyst/ML Engineer, current interested in smart contract security, Web3 & distributed systems
 facebook: https://www.facebook.com
-twitter: https://www.twitter.com
+twitter: https://twitter.com/Nft_Analysst
 linkedin: https://www.linkedin.com
 image: ./images/author1.png
 cover: ./cover/benjamin-voros-Lxq_TyMMHtQ-unsplash.jpg
