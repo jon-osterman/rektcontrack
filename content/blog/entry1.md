@@ -3,7 +3,7 @@ title: The Genesis Hack
 tags: security, DAO
 category: Getting Started
 excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
-created: 2022-02-2
+created: 2022-02-02
 image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
 image_caption: Photo by Josh Spires on Unsplash
 author: author1
