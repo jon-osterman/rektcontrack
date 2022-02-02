@@ -1,5 +1,5 @@
 ---
-* title: Our Mission
+title: Our Mission
 ---
 
 ## Smart Contract Security Education for everyone
