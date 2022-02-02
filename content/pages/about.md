@@ -1,5 +1,5 @@
 ---
-title: About us
+title: Our Mission
 ---
 
 ## Ossa narrat sortita fecerat sit conataque
