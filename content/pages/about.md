@@ -1,5 +1,5 @@
 ---
-title: Our Mission
+title: About uss
 ---
 
 ## Ossa narrat sortita fecerat sit conataque
