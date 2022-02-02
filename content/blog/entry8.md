@@ -7,7 +7,6 @@ created: 2019-08-02
 image: ./images/sadanand-lowanshi-6AnDyJ10_iQ-unsplash.jpg
 image_caption: Photo by Sadanand Lowanshi on Unsplash
 author: author2
-featured: true
 ---
 
 ## Cornua suspenditque latius aptas

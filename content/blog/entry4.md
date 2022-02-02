@@ -7,7 +7,6 @@ created: 2019-04-01
 image: ./images/menghan-zhang-gnoY8Z0umg4-unsplash.jpg
 image_caption: Photo by Menghan Zhang on Unsplash
 author: author1
-featured: true
 ---
 
 ## Pectora iam hora tria terret Thebis

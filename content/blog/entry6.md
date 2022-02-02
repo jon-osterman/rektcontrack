@@ -7,7 +7,6 @@ created: 2019-06-28
 image: ./images/qingbao-meng-01_igFr7hd4-unsplash.jpg
 image_caption: Photo by Qingbao Meng on Unsplash
 author: author2
-featured: true
 ---
 
 ## Nunc arma

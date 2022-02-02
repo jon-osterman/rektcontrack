@@ -7,7 +7,6 @@ created: 2019-10-31
 image: ./images/sergio-souza-WU6K3Lmq9ok-unsplash.jpg
 image_caption: Photo by Sergio Souza on Unsplash
 author: author3
-featured: true
 ---
 
 ## Unda sit utque siquid

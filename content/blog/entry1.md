@@ -1,16 +1,16 @@
 ---
-title: Troes retardat
+title: The Genesis Hack
 tags: security, DAO
-category: Security
+category: Getting Started
 excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
-created: 2019-01-10
+created: 2022-02-2
 image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
 image_caption: Photo by Josh Spires on Unsplash
 author: author1
 featured: true
 ---
 
-## The Genesis Hack
+## The DAO Hack
 
 Lorem markdownum aptos pes, Inachidos caput corrumpere! Hanc haud quam [est
 candore](http://quisquis-in.io/ramossuperum) conpulit meriti. Vincere ferocia

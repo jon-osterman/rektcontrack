@@ -7,7 +7,6 @@ created: 2019-12-24
 image: ./images/steven-wong-LcemoNqHIxY-unsplash.jpg
 image_caption: Photo by Steven Wong on Unsplash
 author: author3
-featured: true
 ---
 
 ## Animam arce aeternus venti successurumque nitidum
