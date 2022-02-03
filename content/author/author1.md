@@ -1,7 +1,7 @@
 ---
 id: author1
 name: Jon Osterman
-bio: Previously Analyst/ML Engineer, current interested in smart contract security, Web3 & distributed systems
+bio: Previously Analyst/ML Engineer, currently interested in smart contract security, Web3 & distributed systems
 facebook: https://www.facebook.com
 twitter: https://twitter.com/Nft_Analysst
 linkedin: https://www.linkedin.com
