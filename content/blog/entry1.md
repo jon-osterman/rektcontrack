@@ -10,11 +10,12 @@ author: author1
 featured: true
 ---
 
-## The DAO Hack
+## The DAO 
 
-Lorem markdownum aptos pes, Inachidos caput corrumpere! Hanc haud quam [est
-candore](http://quisquis-in.io/ramossuperum) conpulit meriti. Vincere ferocia
-arva.
+Known as the very first Decentralized Autonamous Organization (DAO) to have been created and deployed via smart contract; The DAO was created as an investor-directed venture capital fund. Launched in April of 2016, The DAO raised millions of dollars, by may 2016 had more than 150 million dollars in its treasury and over 11 thousand investors. Holding the record as the largest crowd-funding event in the world, The DAO was set to change the world of investing in the future of crypto and startups. 
+
+## The Problem
+By June 12, months after being released, worries over the contracts security were expressed heavily to the point that the Slock.it (wrote The DAO's smart contract) wrote 
 
 ## Eleis celeberrimus loci ait falsa infelix tuoque
 
