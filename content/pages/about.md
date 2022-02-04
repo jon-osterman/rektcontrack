@@ -6,23 +6,17 @@ title: About us
 
 The future of web3 is in the hands of its developers, contract security will be its foundation. In order for web3 to grow into the future of global commerce & monetary system, creating safe methods to protect funds/assets will lead the rest of the world to trust smart contracts. 
 
-## Learn by failing
+## Learn from failure
 
-Since the beginning, issues with smart contracts have lead to millions of dollars being lost to hackers who found vulmerabilities in the code. Most notably [The DAO](https://en.wikipedia.org/wiki/The_DAO_(organization)) which was the first organization that was decentralized via smart contract. The outcome was like that of the Titanic, wide-eyed and with the belief it could was unsinkable, until it wasn't. 
+Since the beginning, issues with smart contracts have lead to millions of dollars being lost to hackers who found vulmerabilities in the code. Most notably [The DAO](https://en.wikipedia.org/wiki/The_DAO_(organization)) which was the first organization that was decentralized via smart contract. The first smart contract was ironically the first to be hacked.
 
+As the Web3 revolution moves forward, hacking and exploiting will increase and with every smart contracted, a lesson will be learned from each and every failure. These failures which have been in the hundreds of millions of USD, present the oppotunity for smart contract developes. 
 
-## Facundis quid 
+## Help others
+ 
+Our purpose at   Rektcontracts is 
 
-Venerit conveniunt per memori sed laniarat Dromas, solum tum. Undis lacteus
-infitiatur adest [acies certius](http://www.tollit-clamavit.io/) inscius, cum ad
-emittunt dextra.
-
-Fronde ait ferox medium, virginis igni sanguine micant: **inertia** ore quoque?
-Iaculi quicquid **virescere misit stirpe** Theseus Venerem! Falce taceo oves,
-idem fugit, non abiit palam quantum, fontes vinci et abiit. Deiectoque exstabant
-**Phrygiae** cepit munus tanto.
-
-## Et capienda Peneia
+## 
 
 *Haec moenia pater* signataque urget, ait quies laqueo sumitque. Misit sit
 moribunda terrae sequar longis hoc, cingebant copia cultros! Alis templi taeda
