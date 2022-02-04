@@ -1,20 +1,20 @@
 ---
-title: Dederis faciem
-tags: tag1, tag2, tag3
+title: Smart Contract Security Education
+tags: security, 
 category: Getting started
 excerpt: Qua opes egentes cur, et trunca carpserat tulitquemuneris foedumque patriumque pisces vices!
 created: 2019-02-05
 image: ./images/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg
 image_caption: Photo by Luasz Szmigiel on Unsplash
 author: author1
+featured: true
 ---
 
-## Loci ego fuit
+## Why I started Rektcontracts
 
-Lorem markdownum tollere. *Qua opes egentes* cur, et trunca carpserat
-tulitquemuneris foedumque patriumque pisces vices sed eadem quam! **Cupidinis
-nostro Issen**; pinus cumulo tanget ego **aera dea** fugientem fortia publica
-cum, ipsum.
+Since 2020, I became immersed in crypto, all the while thinking to myself that I didn't need to learn "block chain languages" because I was deep in the Machine Learning field. I started to notice that I was not interested in Artificial Intelligence, as i was in 2016, and i found myself reading more and more about smart contracts and NFT's. Eventually I found the Rabbit Hole when I found Builspace, a place to learn web3 technolgies fast.
+
+I found myself obsessed with creating my own NFT's, web3 login and my very own DAO. During this entire journey, I feared pushing my work to the MainNet because I knew I had no idea what I was doing, and more generally, I could be hacked. So I decided that I needed to search for the best web3 
 
 ## Terrae sic nunc crinem violaeque armaque
 
