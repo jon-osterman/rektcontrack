@@ -10,9 +10,9 @@ author: author1
 featured: true
 ---
 
-## Why I started Rektcontracts
+## Why Rektcontracts
 
-Since 2020, I became immersed in crypto, all the while thinking to myself that I didn't need to learn "block chain languages" because I was deep in the Machine Learning field. I started to notice that I was not interested in Artificial Intelligence, as i was in 2016, and i found myself reading more and more about smart contracts and NFT's. Eventually I found the Rabbit Hole when I found Builspace, a place to learn web3 technolgies fast.
+Since 2020, I became immersed in crypto, all the while thinking to myself that I didn't need to learn "block chain languages" because I was deep in the Machine Learning field. I started to notice that I was no longer passionate about Artificial Intelligence, as i was in 2016, and i found myself reading more and more about smart contracts and NFT's. Eventually I found the Rabbit Hole when I found Builspace, a place to learn web3 technolgies fast.
 
 I found myself obsessed with creating my own NFT's, web3 login and my very own DAO. During this entire journey, I feared pushing my work to the MainNet because I knew I had no idea what I was doing, and more generally, I could be hacked. So I decided that I needed to search for the best web3 
 
