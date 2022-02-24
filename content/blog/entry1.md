@@ -15,7 +15,8 @@ featured: true
 Known as the very first Decentralized Autonamous Organization (DAO) to have been created and deployed via smart contract; The DAO was created as an investor-directed venture capital fund. Launched in April of 2016, The DAO raised millions of dollars, by may 2016 had more than 150 million dollars in its treasury and over 11 thousand investors. Holding the record as the largest crowd-funding event in the world, The DAO was set to change the world of investing in the future of crypto and startups. 
 
 ## The Problem
-By June 12, months after being released, worries over the contracts security were expressed heavily to the point that the Slock.it (wrote The DAO's smart contract) wrote 
+Recursive Call DAO 1.1
+At launch, the DAO's code was impeccable, although there was an issue 
 
 ## Eleis celeberrimus loci ait falsa infelix tuoque
 
@@ -61,3 +62,16 @@ lacrimas. Tumidi fassusque hosti, deus [vixque desint
 dedit](http://hisnurus.com/putares-pars) dum et, quo non, dea [suras
 tantum](http://mactata.org/inducere.php). Unus acta capulo. In Dryope sic
 vestigia est neu ignis in **illa mirantur agilis** densior.
+
+
+
+
+==== 
+
+Reentrancy attack:
+Using a recursive call, the attacker drains funds from the target by recursively calling the withdraw function. Sort of like going to an ATM and asking for your money back, before your account is updated, you are able to ask for your money back again, over and over and over. The is how the DAO's attack was implemented, and it was all due to this mistake that went unnoticed until researchers pointed out the Split function()
+
+```
+
+```
+
