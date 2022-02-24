@@ -95,7 +95,7 @@ import ContentHeader from "~/components/Partials/ContentHeader.vue";
 
 export default {
   metaInfo: {
-    title: "Don't get RΞKT!"
+    title: " RΞKT! "
   },
   components: {
     CardItem,

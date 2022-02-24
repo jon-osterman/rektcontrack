@@ -7,7 +7,7 @@ created: 2022-02-02
 image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
 image_caption: Photo by Josh Spires on Unsplash
 author: author1
-featured: true
+
 ---
 
 ## The DAO 
