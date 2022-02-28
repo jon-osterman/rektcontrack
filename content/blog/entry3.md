@@ -1,6 +1,6 @@
 ---
 title: Et aequora inanes fortuna non dextra
-tags: tag2, tag3
+tags: tag2, 
 category: Digital
 excerpt: Lorem markdownum Hesperus in publica iusta aeternus num removit ille. Vincere ferociaarva.
 created: 2019-03-20
@@ -10,6 +10,15 @@ author: author1
 ---
 
 ## Concretam matris protinus populos
+
+1. Re-Entrancy
+
+One of the features of Ethereum smart contracts is the ability to call and utilise code of other external contracts. Contracts also typically handle ether, and as such often send ether to various external user addresses. The operation of calling external contracts, or sending ether to an address, requires the contract to submit an external call. These external calls can be hijacked by attackers whereby they force the contract to execute further code (i.e. through a fallback function) , including calls back into itself. Thus the code execution “re-enters” the contract. Attacks of this kind were used in the infamous DAO hack.
+For further reading on re-entrancy attacks, see Reentrancy Attack On Smart Contracts and Consensus — Ethereum Smart Contract Best Practices.
+The Vulnerability
+
+This attack can occur when a contract sends ether to an unknown address. An attacker can carefully construct a contract at an external address which contains malicious code in the fallback function. Thus, when a contract sends ether to this address, it will invoke the malicious code. Typically the malicious code executes a function on the vulnerable contract, performing operations not expected by the developer. The name “re-entrancy” comes from the fact that the external malicious contract calls back a function on the vulnerable contract and “re-enters” code execution at an arbitrary location on the vulnerable contract.
+To clarify this, consider the simple vulnerable contract, which acts as an Ethereum vault that allows depositors to only withdraw 1 ether per week.
 
 Lorem markdownum Hesperus in `publica` iusta aeternus num removit ille. Ea cur
 utar cum *tenuit Philemon*, etiamnum nomen; tibi horrida potuit. Sopita sine
