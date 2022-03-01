@@ -12,12 +12,11 @@ featured: true
 
 ## Our Mission
 
-### Make smart contract education available to all
 The future of the internet and the economy, will rely on smart contract technologies some day. Eventhough it is still early days, and smart contracts are in their infancy, in order for smart contracts to mature, developers will need to focus on security. Rektcontracts was created for developers to understand the basic elements of making a great smart contract. In order for smart contracts to become what the internet was supposed to be, a place for freedom from tyranny, we must solve security first. Our aim is to foster a community of smart contract developers who will help others learn from previous mistakes in order to create a more vibrant and inclusive ecosystem for web3 to thrive in the future.
 
 
 ## Learn with Rekt
-
+Our goal and our promise is to bring to you, the reader, the best iu0
 Since the beginning, smart contract mistakes have lead to some of the biggests thefts in web3 history. Most notably, at the dawn of web3, when The DAO was hacked, smart contract security was at fault for the blunder. Since then, hundreds of millions of dollars (link) have been stolen by poor contract engineering. 
 
 
