@@ -10,18 +10,18 @@ author: author1
 featured: true
 ---
 
-## Why Rektcontracts
+## Our Mission
 
-Since 2020, I became immersed in crypto, all the while thinking to myself that I didn't need to learn "block chain languages" because I was deep in the Machine Learning field. I started to notice that I was no longer passionate about Artificial Intelligence, as i was in 2016, and I found myself reading more and more about smart contracts and NFT's. I accidently fell down the Rabbit Hole & found [*Builspace.so*](buildspace.so), a place to learn web3 technolgies fast and have a good time doing it.
+The future of the internet and the economy, will rely on smart contract technologies some day. Eventhough it is still early days, and smart contracts are in their infancy, in order for smart contracts to mature, developers will need to focus on security. Rektcontracts was created for developers to understand the basic elements of making a great smart contract. In order for smart contracts to become what the internet was supposed to be, a place for freedom from tyranny, we must solve security first. Our aim is to foster a community of smart contract developers who will help others learn from previous mistakes in order to create a more vibrant and inclusive ecosystem for web3 to thrive in the future.
 
 
-At Buildspace I found myself obsessed with creating my own NFT's, web3 login and my very own DAO. During this entire journey, I feared pushing my work to the MainNet because I knew I had no idea what I was doing, and more generally, I could be hacked because I was a noob. The entire process had me feeling more and more insecure about the smart contracts I was creating so I needed to learn security more in depth. Hearing all the horror stories about hundreds of millions of dollars being lost to smart contract hacks. I didn't want to get REKT, so I decided to learn more...
+## Learn from Rekt
+
+Since the beginning, smart contract mistakes have lead to some of the biggests thefts in web3 history. Most notably, at the dawn of web3, when The DAO was hacked, smart contract security was at fault for the blunder. Since then, hundreds of millions of dollars (link) have been stolen by poor contract engineering. 
+
 
 ## Birth of Rektcontracts
 
-These horror stories made me realize that I needed to learn more about security; the more I searched, the more unorganized the websites I found, teaching my about smart contract security, and if ther was good content, it was only a few articles. I felt really helpless, because my way of brain is set up, if I have too many websites up, I lose focus and eventually drift into space and forget what I was doing.
-
-The ancient Japanese addage "I will never give up until I become Hokage" struck me,  I knew that instead of becoming Hokage, I could become an Expert in Smart Contract security. The problem was that I knew very little about smart contract security and all the resources I found were not my cup of tea. So I decided I would make my own website, and help other noobs get their smart contract skillz up and named it "Rektcontracts".
 
 ## Terrae sic nunc c
 

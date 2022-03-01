@@ -2,6 +2,9 @@
 title: About us
 ---
 
+## Birth of Rekt
+
+
 ## Smart Contract Security 
 
 The future of web3 is in the hands of its developers, contract security will be its foundation. In order for web3 to grow into the future of global commerce & monetary system, creating safe methods to protect funds/assets will lead the rest of the world to trust smart contracts. 
