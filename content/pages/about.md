@@ -2,7 +2,7 @@
 title: About us
 ---
 
-## Birth of Rekt
+## Birth of RΞkt
 
 
 ## Smart Contract Security 

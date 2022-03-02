@@ -101,7 +101,7 @@ import ContentHeader from "~/components/Partials/ContentHeader.vue";
 
 export default {
   metaInfo: {
-    title: " RΞKT! "
+    title: " RΞKTcontracts "
   },
   components: {
     CardItem,

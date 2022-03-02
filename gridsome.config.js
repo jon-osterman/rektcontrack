@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'RektContracts  ',
+  siteName: 'RΞktcontracts  ',
   siteDescription: "Smart contract security for all",
   plugins: [
     {
