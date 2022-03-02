@@ -20,13 +20,13 @@
       "link": "#",
       "children": [
         {
-          "name": "Theme Repository",
-          "link": "https://www.github.com/jammeryhq/gridsome-starter-liebling",
+          "name": "Ethereum Docs ",
+          "link": "https://ethereum.org/en/developers/docs/smart-contracts/security/",
           "external": true
         },
         {
-          "name": "Gridsome Docs",
-          "link": "https://www.gridsome.org/docs",
+          "name": "Learn To build web3",
+          "link": "https://buildspace.so",
           "external": true
         },
          {

@@ -1,5 +1,5 @@
 ---
-title: Et aequora inanes fortuna non dextra
+title: Attacks & Vulnerabilities
 tags: tag2, 
 category: Digital
 excerpt: Lorem markdownum Hesperus in publica iusta aeternus num removit ille. Vincere ferociaarva.
@@ -9,7 +9,7 @@ image_caption: Photo by Marco Marques on Unsplash
 author: author1
 ---
 
-## Concretam matris protinus populos
+## Common Vulnerabilities
 
 1. Re-Entrancy
 
