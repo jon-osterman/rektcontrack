@@ -1,7 +1,7 @@
 ---
 title: Smart Contract Security Education
 tags: security, education
-category: Getting started
+category: Getting Started
 excerpt: Qua opes egentes cur, et trunca carpserat tulitquemuneris foedumque patriumque pisces vices!
 created: 2022-02-27
 image: ./images/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg
