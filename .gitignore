@@ -6,6 +6,7 @@ node_modules
 dist
 .env
 .env.*
+entry2.md
 entry4.md
 entry5.md
 entry6.md
