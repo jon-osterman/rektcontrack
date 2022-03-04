@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'RΞktcontracts  ',
-  siteDescription: "Smart contract security training ",
+  siteDescription: "Web3 security education",
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
