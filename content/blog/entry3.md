@@ -24,15 +24,25 @@ Lorem markdownum Hesperus in `publica` iusta aeternus num removit ille. Ea cur
 utar cum *tenuit Philemon*, etiamnum nomen; tibi horrida potuit. Sopita sine
 **ego repetita**, lunae seraque ignoscas nullus cornua illi in. *Praemia caelum
 fictilibus* Iasone valens tura breve!
-sdasd
-```js
-if (dvr_web) {
-    packet.soundRpc.targetNas(promText.peripheral.tebibyte_firewire_inbox(
-            constant_bing));
+
+
+```
+// THIS CONTRACT HAS INTENTIONAL VULNERABILITY, DO NOT COPY
+contract Victim {
+    mapping (address => uint256) public balances;
+
+    function deposit() external payable {
+        balances[msg.sender] += msg.value;
+    }
+
+    function withdraw() external {
+        uint256 amount = balances[msg.sender];
+        (bool success, ) = msg.sender.call.value(amount)("");
+        require(success);
+        balances[msg.sender] = 0;
+    }
 }
-gis_raw_mtu = vlbListservInterlaced + storage + widgetFrame;
-fi_cpc_graphics += 71 / linkedin(printerRawConsole, drive) + raw;
-digitize.rdramCcdMotion += sector_wizard;
+
 ```
 
 ## Cupido est
