@@ -9,7 +9,6 @@ image_caption: Photo by Marco Marques on Unsplash
 author: author1
 ---
 
-![Getting Rekt happens](https://raw.githubusercontent.com/jon-osterman/rektcontracts/master/content/blog/memes/all-your-base-belong.gif)
 
 <img align="middle" width="1000" height="1000" src="https://raw.githubusercontent.com/jon-osterman/rektcontracts/master/content/blog/memes/all-your-base-belong.gif">
 
