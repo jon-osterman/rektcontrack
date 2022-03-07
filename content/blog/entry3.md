@@ -9,7 +9,7 @@ image_caption: Photo by Marco Marques on Unsplash
 author: author1
 ---
 
-![Getting Rekt happens](./memes/all-your-base-belong.gif)
+![Getting Rekt happens](https://raw.githubusercontent.com/jon-osterman/rektcontracts/master/content/blog/memes/all-your-base-belong.gif)
 ## Getting started
 
 Before we dive into Web3 smart contracts, we have to understand that in almost everything in the world can be hacked, and blockchain is not excluded from exploitation. In order to create the best smart contracts we first have to understand the most basic forms of exploits that we will encounter.
