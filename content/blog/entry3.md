@@ -11,7 +11,7 @@ author: author1
 
 ![Getting Rekt happens](https://raw.githubusercontent.com/jon-osterman/rektcontracts/master/content/blog/memes/all-your-base-belong.gif)
 
-<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/jon-osterman/rektcontracts/master/content/blog/memes/all-your-base-belong.gif">
+<img align="middle" width="1000" height="1000" src="https://raw.githubusercontent.com/jon-osterman/rektcontracts/master/content/blog/memes/all-your-base-belong.gif">
 
 ## Getting started
 
