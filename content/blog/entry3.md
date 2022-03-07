@@ -1,15 +1,19 @@
 ---
-title: Attacks & Vulnerabilities
-tags: tag2, 
-category: Digital
+title: Security Basics
+tags: vocab, 
+category: Getting Started
 excerpt: Lorem markdownum Hesperus in publica iusta aeternus num removit ille. Vincere ferociaarva.
-created: 2019-03-20
+created: 2022-03-07
 image: ./images/marco-marques-dJ_Zl5LpPto-unsplash.jpg
 image_caption: Photo by Marco Marques on Unsplash
 author: author1
 ---
 
-## Common Vulnerabilities
+![Getting Rekt happens](./memes/all-your-base-belong.gif)
+## Getting started
+
+Before we dive into Web3 smart contracts, we have to understand that in almost everything in the world can be hacked, and blockchain is not excluded from exploitation. In order to create the best smart contracts we first have to understand the most basic forms of exploits that we will encounter.
+## 
 
 1. Re-Entrancy
 
@@ -24,24 +28,23 @@ Lorem markdownum Hesperus in `publica` iusta aeternus num removit ille. Ea cur
 utar cum *tenuit Philemon*, etiamnum nomen; tibi horrida potuit. Sopita sine
 **ego repetita**, lunae seraque ignoscas nullus cornua illi in. *Praemia caelum
 fictilibus* Iasone valens tura breve!
-
-
+sdas
 ```
-// THIS CONTRACT HAS INTENTIONAL VULNERABILITY, DO NOT COPY
-contract Victim {
-    mapping (address => uint256) public balances;
+        // THIS CONTRACT HAS INTENTIONAL VULNERABILITY, DO NOT COPY
+        contract Victim {
+                mapping (address => uint256) public balances;
 
-    function deposit() external payable {
-        balances[msg.sender] += msg.value;
-    }
+        function deposit() external payable {
+                balances[msg.sender] += msg.value;
+        }
 
-    function withdraw() external {
-        uint256 amount = balances[msg.sender];
-        (bool success, ) = msg.sender.call.value(amount)("");
-        require(success);
-        balances[msg.sender] = 0;
-    }
-}
+        function withdraw() external {
+                 uint256 amount = balances[msg.sender];
+                (bool success, ) = msg.sender.call.value(amount)("");
+                require(success);
+                balances[msg.sender] = 0;
+           }
+        }
 
 ```
 
