@@ -16,10 +16,11 @@ author: author1
 
 ## Getting started
 
-Before we dive into Web3 smart contracts, we have to understand that in almost everything in the world can be hacked, and blockchain is not excluded from exploitation. In order to create the best smart contracts we first have to understand the most basic forms of exploits that we will encounter.
-## 
+Before we dive into Web3 smart contracts, we have to understand that almost everything in the world can & will be hacked; blockchain is not excluded from exploitation. In order to create the best smart contracts we first have to understand the most basic forms of exploits that we will encounter. Security is a mindset, that you have to think like a criminal in order to protect yourself. Let's take a look at some vocabulary before we do any code reviews first
+## Vocabulary
 
-1. Re-Entrancy
+1. Re-Entrancy:
+
 
 One of the features of Ethereum smart contracts is the ability to call and utilise code of other external contracts. Contracts also typically handle ether, and as such often send ether to various external user addresses. The operation of calling external contracts, or sending ether to an address, requires the contract to submit an external call. These external calls can be hijacked by attackers whereby they force the contract to execute further code (i.e. through a fallback function) , including calls back into itself. Thus the code execution “re-enters” the contract. Attacks of this kind were used in the infamous DAO hack.
 For further reading on re-entrancy attacks, see Reentrancy Attack On Smart Contracts and Consensus — Ethereum Smart Contract Best Practices.
@@ -33,7 +34,7 @@ utar cum *tenuit Philemon*, etiamnum nomen; tibi horrida potuit. Sopita sine
 **ego repetita**, lunae seraque ignoscas nullus cornua illi in. *Praemia caelum
 fictilibus* Iasone valens tura breve!
 sdas
-```
+```js
         // THIS CONTRACT HAS INTENTIONAL VULNERABILITY, DO NOT COPY
         contract Victim {
                 mapping (address => uint256) public balances;
