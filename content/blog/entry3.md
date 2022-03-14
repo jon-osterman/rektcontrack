@@ -20,11 +20,14 @@ Before we dive into Web3 smart contracts, we have to understand that everything 
 
 
 ## Defensive contracts
-Generally speaking, when approaching a smart contract, you must be pragmatic and humble when creating contracts. 
+Generally speaking, when approaching a smart contract, you must be pragmatic and humble when creating new contracts. Trying to reinvent the wheel while seemingly revolutionary and godly, will make you infamous when your contract is hacked. **NO Bueno**
 
-- Quality over quantity
- Any mistake made when creating smart contracts will lead to getting rekt, and your pockets as well as others will pay the price. Using simple code that does a few things correctly will save you
- 
+### Quality over quantity
+
+ - Any mistake made when creating smart contracts will lead to getting rekt, and your pockets as well as of others will feel the **pain**. Using simple code that does a few things correctly will save you time and heartache
+
+ - 
+
 ## Vocabulary
 
 1. Re-Entrancy:
