@@ -16,10 +16,21 @@ author: author1
 
 ## Getting started
 
-Before we dive into Web3 smart contracts, we have to understand that almost everything in the world can & will be hacked; blockchain is not excluded from exploitation. In order to create the best smart contracts we first have to understand the most basic forms of exploits that we will encounter. Security is a mindset, that you have to think like a criminal in order to protect yourself. Let's take a look at some vocabulary before we do any code reviews first
+Before we dive into Web3 smart contracts, we have to understand that everything in the world that hasn't been hacked will be hacked; blockchain is not excluded from exploitation. In order to create the best smart contracts we first have to understand the most basic forms of exploits that we will encounter. Security is a mindset, that you have to think like a criminal in order to protect yourself. Let's take a look at best practices & vocabulary to keep your contract safe.
+
+
+## Defensive contracts
+Generally speaking, when approaching a smart contract, you must be pragmatic and humble when creating contracts. 
+
+- Quality over quantity
+ Any mistake made when creating smart contracts will lead to getting rekt, and your pockets as well as others will pay the price. Using simple code that does a few things correctly will save you
+ 
 ## Vocabulary
 
 1. Re-Entrancy:
+
+explaination:
+
 
 
 One of the features of Ethereum smart contracts is the ability to call and utilise code of other external contracts. Contracts also typically handle ether, and as such often send ether to various external user addresses. The operation of calling external contracts, or sending ether to an address, requires the contract to submit an external call. These external calls can be hijacked by attackers whereby they force the contract to execute further code (i.e. through a fallback function) , including calls back into itself. Thus the code execution “re-enters” the contract. Attacks of this kind were used in the infamous DAO hack.
@@ -27,13 +38,16 @@ For further reading on re-entrancy attacks, see Reentrancy Attack On Smart Contr
 The Vulnerability
 
 This attack can occur when a contract sends ether to an unknown address. An attacker can carefully construct a contract at an external address which contains malicious code in the fallback function. Thus, when a contract sends ether to this address, it will invoke the malicious code. Typically the malicious code executes a function on the vulnerable contract, performing operations not expected by the developer. The name “re-entrancy” comes from the fact that the external malicious contract calls back a function on the vulnerable contract and “re-enters” code execution at an arbitrary location on the vulnerable contract.
-To clarify this, consider the simple vulnerable contract, which acts as an Ethereum vault that allows depositors to only withdraw 1 ether per week.
+To clarify this, consider the simple vulnerable contract, which acts as an Ethereum vault that allows depositors to only 
+
+withdraw 1 ether per week.
 
 Lorem markdownum Hesperus in `publica` iusta aeternus num removit ille. Ea cur
 utar cum *tenuit Philemon*, etiamnum nomen; tibi horrida potuit. Sopita sine
 **ego repetita**, lunae seraque ignoscas nullus cornua illi in. *Praemia caelum
 fictilibus* Iasone valens tura breve!
-sdas
+
+
 ```js
         // THIS CONTRACT HAS INTENTIONAL VULNERABILITY, DO NOT COPY
         contract Victim {
