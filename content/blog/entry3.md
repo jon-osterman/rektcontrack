@@ -24,7 +24,9 @@ Before we dive into Web3 smart contracts, we have to understand that everything 
 ## Prepare for failure
 
 Generally speaking, when approaching a smart contract, you must be pragmatic and humble when creating new contracts. Trying to reinvent the wheel while seemingly revolutionary and godly, will make you infamous when your contract is hacked. Prepare for failure 
-        - add a circuit breaker(circuit breaker)['https://yos.io/2020/07/25/fault-tolerant-smart-contracts/']
+        - add a [**circuit breaker**]('https://yos.io/2020/07/25/fault-tolerant-smart-contracts/')
+
+        []()
         - Manage the amount of money at risk
         - Have an effective upgrade path for bugfixes and improvements
 
