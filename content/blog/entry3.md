@@ -21,12 +21,20 @@ author: author1
 Before we dive into Web3 smart contracts, we have to understand that everything in the world that hasn't been hacked will be hacked; blockchain is not excluded from exploitation. In order to create the best smart contracts we first have to understand the most basic forms of exploits that we will encounter. Security is a mindset, that you have to think like a criminal in order to protect yourself. Let's take a look at best practices & vocabulary to keep your contract safe.
 
 
-## Defensive contracts
-Generally speaking, when approaching a smart contract, you must be pragmatic and humble when creating new contracts. Trying to reinvent the wheel while seemingly revolutionary and godly, will make you infamous when your contract is hacked. 
+## Prepare for failure
 
+Generally speaking, when approaching a smart contract, you must be pragmatic and humble when creating new contracts. Trying to reinvent the wheel while seemingly revolutionary and godly, will make you infamous when your contract is hacked. Prepare for failure 
+        - add a circuit breaker(circuit breaker)['https://yos.io/2020/07/25/fault-tolerant-smart-contracts/']
+        - Manage the amount of money at risk
+        - Have an effective upgrade path for bugfixes and improvements
+
+## Stay up to Date
+ 
+Making sure you as a smart contract developer are keeping up with the moving tide is of utmost importance. New standards for EIP can be created or new libraries are improved, keeping up with the field will make your contracts strong and resistant to attacks.
 ### Quality over quantity
 
  - Your smart contract once launched cannot be changed after you realize your mistake, using simple code that does a few things correctly will save you time and heartache. Try to find simpler ways of writing less code to do more. Similar to writing, fewer words can get the point across better than several sentences describing the same idea.
+
 
 ### Copy pasta is tasty
 
