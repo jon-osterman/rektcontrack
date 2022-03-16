@@ -10,9 +10,9 @@ author: author1
 ---
 
 
-|<img align="middle" width="1000" height="1000" src="https://github.com/jon-osterman/rektcontracts/blob/master/content/blog/memes/belong_to_us.gif?raw=true">|
+|<img align="middle" width="1000" height="1000" src="https://github.com/jon-osterman/rektcontracts/blob/master/content/blog/memes/belong_to_us.gif">|
 |:--:| 
-| *This was HQ during The DAO hack* |
+| *Actual footage from The DAO hack* |
 
 
 
