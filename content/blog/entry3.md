@@ -16,7 +16,7 @@ author: author1
 
 
 
-## What is security?
+# What is security?
 
 Before we dive into Web3 smart contracts, we have to understand that everything in the world that hasn't been hacked will be hacked; blockchain is not excluded from exploitation. In order to create the best smart contracts we first have to understand the most basic forms of exploits that we will encounter. Security is a mindset, that you have to think like a criminal in order to protect yourself. Let's take a look at best practices & vocabulary to keep your contract safe.
 
