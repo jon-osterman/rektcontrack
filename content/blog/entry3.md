@@ -14,7 +14,7 @@ author: author1
 |:--:| 
 | *Everything gets pwnd* |
 
-|<img align="middle" width="100" height="100" src="https://github.com/jon-osterman/rektcontracts/blob/master/content/blog/memes/belong_to_us.gif?raw=true">|
+|<img align="middle" width="1000" height="1000" src="https://github.com/jon-osterman/rektcontracts/blob/master/content/blog/memes/belong_to_us.gif?raw=true">|
 |:--:| 
 | *Everything gets pwnd* |
 
