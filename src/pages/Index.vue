@@ -3,7 +3,7 @@
       <content-header 
         :title="$static.metadata.siteName" 
         :sub="$static.metadata.siteDescription"
-        image="stephan-cassara-KnAIsBuitGg-unsplash.jpg">
+        image="phoenix-han-Nqdh0G8rdCc-unsplash.jpg">
       </content-header>
 
       <div class="container mx-auto">

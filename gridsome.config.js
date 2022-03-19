@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'RΞktcontracts  ',
-  siteDescription: "Web3 security education",
+  siteDescription: "Web3 security education asdasd",
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
