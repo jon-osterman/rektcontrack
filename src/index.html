@@ -47,5 +47,37 @@
 
     ${app}
     ${scripts}
+
+    <html lang="en">
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+ 
+<body class="p-12">
+ 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/alpinejs/2.3.0/alpine.js"></script>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+ 
+ 
+    <div  @click.away="open = false" x-data="{ open: false }">
+      
+<button  @click="open = !open" class="text-sm capitalize  rounded py-3 px-4 bg-blue-600 text-white mb-4 hover:bg-blue-800 cursor-pointer"> Open Popup </button>
+ 
+ 
+        <div :class="{'showpopup': open, 'hidden': !open}" class="p-12 bg-blue-100 relative">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae nesciunt fuga aut rem, veritatis
+                repudiandae? Mollitia, neque debitis distinctio non illum consequatur incidunt ipsa laboriosam     nesciunt   commodi vero dolore ipsum.</p>
+ 
+            <button :class="{'showpopup': open, 'hidden': !open}" class="close absolute top-3 right-3"
+                    @click="open = false"> X </button>
+          
+          
+        </div>
+    </div>
+ 
   </body>
 </html>
